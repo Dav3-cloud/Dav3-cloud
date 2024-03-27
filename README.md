@@ -1,4 +1,4 @@
-Lots of red teaming and soem coding projects 👻👾
+Lots of red teaming and some coding projects 👻👾
 
 <!---
 Dav3-cloud/Dav3-cloud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
